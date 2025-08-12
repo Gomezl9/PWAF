@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 PWA Firebase Auth - Login Moderno
 
 Una aplicación PWA (Progressive Web App) moderna con autenticación Firebase, diseñada con un tema oscuro elegante y sombras verdes.
@@ -200,3 +201,6 @@ Si tienes problemas o preguntas:
 ---
 
 **¡Disfruta tu nueva aplicación PWA con autenticación Firebase! 🚀**
+=======
+# PWAF
+>>>>>>> 03e437998594ff9de5203b531ae182efbc3c02bd
